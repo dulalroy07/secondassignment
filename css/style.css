@@ -3,11 +3,17 @@
 }
 .contrainer{
     background: #9b9999;
+    /* margin-left: 30px;
+    margin-right: 40px; */
+    margin: 0px 30px;
+    border-radius: 20px;
     
 }
 .contrainer1{
     margin-top: 20px;
     background: #2c0c0c;
+    margin: 20px 30px;
+    border-radius: 20px;
     
 }
 .services{
@@ -44,8 +50,8 @@
     display: flex;
     /* height: 430px; */
     /* border: 1px solid rgb(200, 9, 9); */
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 100px;
     /* justify-content: center; */
     justify-content: space-evenly;
 
