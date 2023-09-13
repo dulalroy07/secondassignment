@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+}
+.contrainer{
+    background: #9b9999;
+    
+}
+.contrainer1{
+    margin-top: 20px;
+    background: #2c0c0c;
+    
+}
+.services{
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    color: aliceblue;
+        
+}
+.revise{
+    flex-direction: row-reverse;
+}
+.box1{
+    background-color: DodgerBlue;
+}
+.box2{
+    background-color: tomato;
+}
+.box3{
+    background-color:MediumSeaGreen;
+}
+.box{
+    width: 25%;
+    
+    /* margin: 10px; */
+    margin: 20px 0px;
+    padding: 10px;
+    border-radius: 15px;
+}
+/* p{
+    font-size: 1.5em;
+} */
+.mentor{
+    display: flex;
+    /* height: 430px; */
+    /* border: 1px solid rgb(200, 9, 9); */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* justify-content: center; */
+    justify-content: space-evenly;
+
+}
+.leftm{
+    border: 1px solid black;
+    width: 25%; 
+    background-color: dodgerblue;
+    color: white;
+    }
+.centerm{
+    border: 1px solid black;
+    width: 25%; 
+    background-color: dodgerblue;
+    color: white;
+}
+.rightm{
+    border: 1px solid black;
+    width: 25%; 
+    background-color: dodgerblue;
+    color: white;
+    
+}
+img{
+    max-width: 100%;
+}
